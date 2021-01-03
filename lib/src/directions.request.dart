@@ -44,7 +44,7 @@ class DirectionsRequest {
     this.region,
     this.drivingOptions,
     this.transitOptions,
-    this.languages,
+    this.language,
   });
 
   /// The address, textual latitude/longitude value, or place ID
